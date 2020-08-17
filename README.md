@@ -1,4 +1,4 @@
-# HolidaySrc
+# World Holidays and Events
 
 ## Installation
 
