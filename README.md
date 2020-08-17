@@ -12,4 +12,4 @@ npm install
 npm start
 ```
 
-Browse the website [URL]](https://henry-chung.github.io/holiday/).
+[URL]](https://henry-chung.github.io/holiday/)
