@@ -1,4 +1,4 @@
-# World Holidays and Events
+# Source Code of the World Holidays and Events
 
 ## Installation
 
@@ -12,4 +12,4 @@ npm install
 npm start
 ```
 
-[URL]](https://henry-chung.github.io/holiday/)
+Url: (https://henry-chung.github.io/holiday/)
